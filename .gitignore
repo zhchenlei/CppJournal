@@ -25,10 +25,10 @@
 *.la
 *.a
 *.lib
-*.json
+*.class
 
 # Executables
 *.exe
 *.out
 *.app
-
+*.json
